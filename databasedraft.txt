@@ -1,0 +1,8 @@
+profile {
+username (id unique ) 
+name 
+Email unique 
+password 
+
+}
+
